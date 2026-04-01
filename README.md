@@ -38,7 +38,6 @@ Important context:
 |-- 04_monetization_analysis.ipynb
 |-- csv_files/
 |-- requirements.txt
-`-- .gitignore
 ```
 
 Notebook order:
